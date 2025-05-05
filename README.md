@@ -34,7 +34,7 @@ You can remove items or change quantities anytime.
 
 Want to connect to a backend? It’s all ready for that too.
 
-#Future Improvements
+# Future Improvements
 Here’s what we’d love to add next:
 
 🔍 Product search and filtering
