@@ -50,7 +50,7 @@ Here’s what we’d love to add next:
 Totally open to contributions! Whether it’s a bug fix, new feature, or just a question—feel free to jump in.
 
 # 📄 License
-This project is open source under the [Link Text] MIT License.
+This project is open source under the [Link Text] (MIT License).
 
 
 
